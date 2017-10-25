@@ -13,3 +13,7 @@ Answer the following questions. Add each answer in a separate commit. (E.g. fill
 	code in the past. It also allows you to see how other people have changed the code,
 	which can give you useful information.
 3. Explain how git enables sharing code.
+	Other people can edit different parts of the code simultaneously, and upload their
+	individual parts of the code as they complete their assingments. It also allows you
+	to track how different collaborators have changed the code, and allows branches of
+	editing, so groups of people can work on one part of the code together.
